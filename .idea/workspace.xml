@@ -4,113 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5071352b-b89e-4224-bf91-76be67df7305" name="Default" comment="new">
-      <change afterPath="$PROJECT_DIR$/static/css/pay.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pay_icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/modernizr.custom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pay.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/storeproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/storeproject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/商品列表.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/登录.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/详情.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/购物车.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/all.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/all.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/script.log.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/migrations/0002_auto_20151111_1651.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/migrations/0003_auto_20151111_2216.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/migrations/0004_caritem_sum_price.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/migrations/0004_caritem_sum_price.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storeproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/storeproject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storeproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/storeproject/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storeproject/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/storeproject/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/ad.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/ad.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/error.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/pagination.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pagination.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/pro_right.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pro_right.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/ad/2015/11/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/ad/2015/11/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/ce.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/ce1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/ce1_DPD6PNb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/ce1_OWPx7bB.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/ce1_zvxnAn9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/ce2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/g.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/h.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/i.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/j.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/l.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si1_FAmpuiB.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si1_JGp28VS.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si1_MxuCcrt.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si1_Q2FMBG9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si1_XauZnb6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si1_dWFylck.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si1_dnRplnM.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si1_pb3D1US.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si1_rHAFiDN.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si1_slFnIaa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si1_yuYAGuM.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si1_zlZy93b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si2_A2EmVXL.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si2_BaRha9o.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si2_Ln2lzkr.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si2_OrNfbLQ.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si2_PrrVqSn.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si2_T8xjPN4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si2_WhzbtGD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si2_ZoPkqI0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si2_iqHi4lr.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si2_j9Gl6o9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si2_mij9qge.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si2_pA8GQeK.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si_0372LO7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si_3epORC0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si_4OmgBG4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si_AHTKatM.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si_JiYUgRt.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si_L9CBOV8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si_MRP1DWG.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si_SaP5j5w.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si_VET713a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si_XGTS70N.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si_iPWyupD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/si_ihG5ytj.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/clothing/2015/11/z.jpg" beforeDir="false" />
-    </list>
+    <list default="true" id="5071352b-b89e-4224-bf91-76be67df7305" name="Default" comment="new" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -538,6 +432,21 @@
       <option name="presentableId" value="Default" />
       <updated>1447203771749</updated>
     </task>
+    <task id="LOCAL-00001" summary="new">
+      <created>1652513004225</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652513004225</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new">
+      <created>1652513198730</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652513198730</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">

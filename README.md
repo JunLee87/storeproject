@@ -33,21 +33,12 @@ Mysql 8
 
 
 ##运行
-#生成sqlite数据库文件
-python3 manage.py migrate
-#启动项目
-cd ~/Python_Project/storeproject/
-
 python manage.py runserver
-
 
 前端
 http://127.0.0.1:8000/
 后台
 http://127.0.0.1:8000/admin/login/
-
-创建管理员
-python manage.py runserver
 
 管理员 
 user: admin
