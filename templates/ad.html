@@ -1,7 +1,7 @@
-{% load staticfiles %}
+{% load static %}
 <div class="banner">
     <div class="col-sm-3 banner-mat">
-        <img class="img-responsive"	src="{% static 'images/ba1.jpg' %}" alt="">
+        <img alt="" class="img-responsive" src="{% static 'images/ba1.jpg' %}">
     </div>
     <div class="col-sm-6 matter-banner">
         <div class="slider">
@@ -9,15 +9,15 @@
                 <ul class="rslides" id="slider">
                     {% for ad in ad_list %}
                     <li>
-                        <img src="{{ MEDIA_URL }}{{ ad.image_url }}" alt="">
-                     </li>
+                        <img alt="" src="{{ MEDIA_URL }}{{ ad.image_url }}">
+                    </li>
                     {% endfor %}
                 </ul>
             </div>
         </div>
     </div>
     <div class="col-sm-3 banner-mat">
-        <img class="img-responsive" src="{% static 'images/ba.jpg' %}" alt="">
+        <img alt="" class="img-responsive" src="{% static 'images/ba.jpg' %}">
     </div>
-    <div class="clearfix"> </div>
-    </div>
+    <div class="clearfix"></div>
+</div>

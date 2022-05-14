@@ -1,17 +1,19 @@
-from django.conf.urls import include, url
-from store.views import *
+from django.urls import re_path
+
+from . import views
 
 urlpatterns = [
-    url(r'^$', index, name='index'),
-    url(r'^products/$', products, name='products'),
-    url(r'^tags/$', tags, name='tags'),
-    url(r'^detail/$', detail, name='detail'),
-    url(r'^register/$', do_reg, name='register'),
-    url(r'^login/$', do_login, name='login'),
-    url(r'^logout/$', do_logout, name='logout'),
-    url(r'^view_cart/$', view_cart, name='view_cart'),
-    url(r'^add_cart/$', add_cart, name='add_cart'),
-    url(r'^clean_cart/$', cleanCart, name='clean_cart'),
-    url(r'^brands/$', brands, name='brands'),
-    url(r'discount/$', getDiscount, name='discount')
+    re_path(r'^$', views.index, name='index'),
+    re_path(r'^products/$', views.products, name='products'),
+    re_path(r'^tags/$', views.tags, name='tags'),
+    re_path(r'^detail/$', views.detail, name='detail'),
+    re_path(r'^register/$', views.do_reg, name='register'),
+    re_path(r'^login/$', views.do_login, name='login'),
+    re_path(r'^logout/$', views.do_logout, name='logout'),
+    re_path(r'^view_cart/$', views.view_cart, name='view_cart'),
+    re_path(r'^add_cart/$', views.add_cart, name='add_cart'),
+    re_path(r'^view_order/$', views.view_order, name='view_order'),
+    re_path(r'^clean_cart/$', views.cleanCart, name='clean_cart'),
+    re_path(r'^brands/$', views.brands, name='brands'),
+    re_path(r'discount/$', views.getDiscount, name='discount'),
 ]
